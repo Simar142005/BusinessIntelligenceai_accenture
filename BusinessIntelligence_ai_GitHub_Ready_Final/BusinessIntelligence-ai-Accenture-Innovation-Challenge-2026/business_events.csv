@@ -1,7 +1,0 @@
-date,region,event_type,text,source,source_priority
-2026-07-15,West,Supplier disruption,Supplier X reported delivery disruption affecting several SKUs.,Operations report,High
-2026-07-18,West,Inventory risk,Warehouse noted repeated stock-outs in fast-moving products.,Warehouse note,Medium
-2026-07-20,West,Promotion,Regional team increased discounts on selected products to protect volume.,Pricing memo,Medium
-2026-07-23,West,Customer feedback,Customers reported products unavailable at several stores.,Customer feedback,Medium
-2026-07-25,East,Campaign,Marketing campaign launched; no material operational disruption observed.,Marketing note,Low
-2026-07-28,North,Supplier update,Supplier lead times remained within normal range.,Supplier email,Low
