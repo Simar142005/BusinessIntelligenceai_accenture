@@ -413,6 +413,8 @@ Possible production-level extensions:
 - Causal analysis
 
 ---
+#PROTOTYPE
+![BUSINESSINTELLIGENCE.AI DASHBOARD](https://github.com/Simar142005/BusinessIntelligenceai_accenture/blob/fe01c02f10eb0c9ac4faa4cb49fd605c4b9fb715/Screenshot%202026-09-02%20231327.png)
 
 # 📌 Project Status
 
