@@ -1,8 +1,8 @@
 streamlit>=1.36,<2
 pandas>=2.0
 numpy>=1.24
+pypdf>=4.0
+python-docx>=1.1
 
-# Optional — only needed if you paste an Anthropic API key into the sidebar
-# to enable live LLM narrative wording. The app runs fully without it
-# (deterministic narrative fallback is always available).
-# anthropic>=0.34,<1
+# Optional: only needed if you want live LLM narrative wording.
+# anthropic>=0.34,<1z
